@@ -11,5 +11,4 @@
 
 
 ## Channel
-[![Tistory](http://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://gomban.tistory.com/)
-[![Resume](http://img.shields.io/badge/-Resume-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white)](https://kdh-portfolio.vercel.app/)
+[![Blog](http://img.shields.io/badge/-Blog-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white)](https://blog.bandal.dev)
