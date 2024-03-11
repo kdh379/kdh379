@@ -11,4 +11,4 @@
 
 
 ## Channel
-[![Blog](http://img.shields.io/badge/-Blog-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white)](https://blog.bandal.dev)
+[![Blog](http://img.shields.io/badge/-Blog-8CA1AF?style=flat-square&logo=readthedocs&logoColor=white)](https://bandal.dev)
