@@ -7,7 +7,7 @@
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
 ![TailwindCSS](http://img.shields.io/badge/-TailwindCSS-06d6b4?style=flat-square&logo=TailwindCSS&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 
 ## Channel
